@@ -1,4 +1,4 @@
-const spinnerCount = 2;
+const spinnerCount = 4;
 const backgroundColor = "LightGray";
 const spinnerColor = "#005288";
 const textColor = "#C80452";

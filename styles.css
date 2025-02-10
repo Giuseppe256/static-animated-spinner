@@ -3,7 +3,7 @@ h1 {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
 }
-#spacer {
+.spacer {
     height: 1500px;
     width: 150px;
     background-color: red;
@@ -11,7 +11,7 @@ h1 {
 .grid {
     display: inline-grid;
 }
-#item1, #item2 {
+#item1, #item2, #item3, #item4 {
     grid-row: 1;
 }
 .spinnerBox {
